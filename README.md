@@ -1,6 +1,6 @@
 # Code Leap Network
 
-The object of this repository is to delivery the documents related to the job opening for QA Tester Jr
+The object of this repository is to deliver the documents related to the job opening for QA Tester Jr
 
 - Folders explanation
 
