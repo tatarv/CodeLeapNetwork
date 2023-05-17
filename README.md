@@ -22,8 +22,10 @@ As a bonus, we should deliver one automated test in react or react native
 In this folder I put two, one for the create a post feature
 And another one for Acess the system
 
-The file Test Cases is a mind map to indicate all the test case scenarios I've used
+* The file Test Cases is a mind map to indicate all the test case scenarios I've used
 to test the applications and find bugs
+
+* The file CODE LEAP NETWORK - Test report is a report about the test execution
 
 - Tools/PL's used
 
